@@ -3,10 +3,15 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 🚀 About me
 -🎓 I have a background in Software Development.
+
 -💻 I love working with Computers.
+
 -🌱 Currently, I'm learning PHP Laravel.
+
 -💡 I enjoy solving problems and building innovative solutions. I also like to experiment with code and make small things for myself.
+
 -🎯 My goals include contributing to open-source projects and collaborating with other developers and much more.
+
 -📫 I have many hobbby's: Drawing, Writing and animating. I also make videos and uploud them to YouTube!
 <!--
 **CharmineX/CharmineX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
