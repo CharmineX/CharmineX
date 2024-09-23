@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 - 🔭 I’m currently working on [Uneed-IT](https://github.com/WhatABeatifulDuwang/UNeedIT)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find my YT channel:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/charminex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="charminex" height="30" width="40" /></a>
 </p>
