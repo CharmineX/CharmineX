@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - 💡  I enjoy solving problems and building innovative solutions. I also like to experiment with code and make small things for myself.
 - 🎯 My goals include building a sizeable open-source project with other developers and working with customers.
 - 📫 My hobbby's are: Drawing, Writing, Animating and Video Editing.
-- 🕹️ Group project I am currently working on: [Roof-toppers](https://github.com/MoroniStubbe/roof-toppers)
+- 🕹️ Group project I am currently working on: [Roof-toppers](https://github.com/MoroniStubbe/roof-toppers).
 
 ## 🔭 Group projects I have worked on:
 - [Uneed-IT](https://github.com/WhatABeatifulDuwang/UNeedIT)
