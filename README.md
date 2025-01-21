@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://phaser.io//" target="_blank" rel="noreferrer"> <img src="https://cdn.phaser.io/images/logo/phaser-logo.svg" alt="laravel" width="40" height="40"/> </a>
 </p>
 <h4 align="left">Databases:</h4>
 <p align="left">
