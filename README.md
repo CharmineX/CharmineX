@@ -3,7 +3,8 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 🚀 About me
 - 🎓 I have a background in Software Development and IT Support.
-- 💻 I love working with Tech.<!-- - 🌱 I'm currently learning PHP (Laravel) and Phaser. -->
+- 💻 I love working with Tech.
+- 🌱 I'm currently learning Vue.
 - 💡  I enjoy solving problems and building innovative solutions. I also like to experiment with code and make small things for myself.
 - 🎯 My goals include building a sizeable open-source project with other developers and working with customers.
 - 📫 My hobbby's are: Drawing, Writing, Animating and Video Editing.
